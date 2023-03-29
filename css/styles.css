@@ -98,9 +98,10 @@ padding: 3%;
 .slogan {
 
     font-size:0.8rem;
-    margin-left: 0px;
+    color:lightgray;
     font-style: italic;
     font-family: "Arial";
+    text-align:left;
 
    }
 
